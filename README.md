@@ -49,8 +49,6 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/adobe%20photoshop-08253c?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff">
-  <img src="https://img.shields.io/badge/adobe%20illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 
 </div>
