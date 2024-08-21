@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="https://ccreamduck.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&animation=fadeIn&fontAlignY=38&desc=welcome%20to%20My%20Github&descAlignY=51&descAlign=62"/>
+    <img src="![제목 없음](https://github.com/user-attachments/assets/44d83d82-8e61-4b7e-bf05-e8c7663871a0)"/>
 </p>
 
 <div align="center">
