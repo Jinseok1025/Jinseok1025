@@ -4,7 +4,7 @@
 <div align="center">
   
   ### 👋 Welcome 👋
-  ### this is ccreamduck 염진석's GitHub!
+  ### this is Jhin's GitHub!
 
 </div>
 
