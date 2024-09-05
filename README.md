@@ -9,9 +9,9 @@
 </div>
 
 ## 😎 Self-Introduction
-Committed and field-adaptable graduate passionate about learning and problem-solving for future development. Experienced at developing user interfaces and collaborating across capabilities.
-- 👨‍🎓 **Degree:** BSc Computing Science, Coventry University (First Class Honours) Graduated Aug 2023
-- 👨‍🎓 **Certification:** Korea IT Academy AI-based Chatbot and OCR Development Expert Course (2024.03.08 - 2024.09.07)
+- Committed and field-adaptable graduate passionate about learning and problem-solving for future development. Experienced at developing user interfaces and collaborating across capabilities.
+👨‍🎓 **Degree:** BSc Computing Science, Coventry University (First Class Honours) Graduated Aug 2023
+👨‍🎓 **Certification:** Korea IT Academy AI-based Chatbot and OCR Development Expert Course (2024.03.08 - 2024.09.07)
   
 <h2 align="center">✨ Skills & Tools ✨</h2>
 
