@@ -57,3 +57,8 @@
 </div>
 
 <br>
+<div align="center">
+  
+  ### [🙌 Notion 🙌](https://ablaze-aster-ba3.notion.site/Jinseok-Yeom-s-Profile-c6087f6cad054263a9cc762266185654?pvs=25)
+
+</div>
