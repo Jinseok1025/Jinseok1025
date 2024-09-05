@@ -4,15 +4,20 @@
 <div align="center">
   
   ### 👋 Welcome 👋
-  ### this is Jhin's GitHub!
+  ### This is Jhin's GitHub!
 
 </div>
 
+## 😎 Self-Introduction
+Committed and field-adaptable graduate passionate about learning and problem-solving for future development. Experienced at developing user interfaces and collaborating across capabilities.
+- 👨‍🎓 **Degree:** BSc Computing Science, Coventry University (First Class Honours) Graduated Aug 2023
+- 👨‍🎓 **Certification:** Korea IT Academy AI-based Chatbot and OCR Development Expert Course (2024.03.08 - 2024.09.07)
+  
 <h2 align="center">✨ Skills & Tools ✨</h2>
 
 <div align="center">
 
-  #### ⚙️ Machine Learning / Deep Learning ⚙️
+  #### 🤖 Machine Learning / Deep Learning 🤖
   <br>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
